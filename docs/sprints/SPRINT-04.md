@@ -11,4 +11,14 @@ Finalização da documentação (README.md e Guia de Deploy).
 
 Preparação dos slides para a Sprint Review Final (Demo Day).
 
+Daily (resumo):
+
+Dia 2: Testes de segurança e validação de inputs (XSS/SQL Injection).
+
+Dia 4: Finalização do manual de deploy e README.
+
 Review: Apresentação do sistema rodando na VPS com métricas reais coletadas durante os testes.
+
+Retrospective:
+
+Ação: Documentar o fluxo de atualização do Open Claw para futuras manutenções do sistema.
